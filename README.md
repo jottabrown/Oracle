@@ -6,7 +6,7 @@ This repository contains a collection of **PL/SQL scripts**, **stored procedures
 ## 📂 Repository Structure
 
 ```
-📁 oracle-database-repo/
+📁 Oracle/
 │
 ├── 📁 scripts/                 # General SQL and PL/SQL scripts
 │   ├── create_tables.sql       # Sample script for table creation
@@ -48,8 +48,8 @@ This repository contains a collection of **PL/SQL scripts**, **stored procedures
 
 1️⃣ Clone the repository:
 ```bash
-git clone https://github.com/jottabrown/oracle-database-repo.git
-cd oracle-database-repo
+git clone https://github.com/jottabrown/Oracle.git
+cd Oracle
 ```
 
 2️⃣ Connect to your Oracle Database:
@@ -70,9 +70,9 @@ sqlplus username/password@your_database
 - **Automate Where Possible**: Use PL/SQL and shell scripts to automate repetitive tasks.
 
 ## 📖 Resources
-- [Oracle PL/SQL Documentation](https://docs.oracle.com/en/database/oracle/oracle-database/)
-- [SQL Performance Tuning Guide](https://docs.oracle.com/en/database/oracle/oracle-database/19/tgsql/index.html)
-- [Backup & Recovery Guide](https://docs.oracle.com/en/database/oracle/oracle-database/19/bradv/index.html)
+- [Oracle PL/SQL Documentation](https://docs.oracle.com/en/database/oracle/Oracle/)
+- [SQL Performance Tuning Guide](https://docs.oracle.com/en/database/oracle/Oracle/19/tgsql/index.html)
+- [Backup & Recovery Guide](https://docs.oracle.com/en/database/oracle/Oracle/19/bradv/index.html)
 
 ## 👨‍💻 Author
 **Jean Alves**  
